@@ -18,3 +18,4 @@ prefer not to use var because of issue in block scope and functional scope
 const ek bar define karne ke bad dubara change ni hota 
 {}= ye scope hote h  
 */
+hii
